@@ -17,13 +17,13 @@ We use the personal information we collect from you in order to provide the Exte
 - Sending updates about the Extension
 - Improving the Extension
 
-The Extension uses the OpenAI GPT-3 API to process user queries. When you enter a query, it is sent to OpenAI's servers where it is processed to generate a response. This data is used solely for the purpose of responding to your query and is not used for marketing or advertising purposes.
+The Extension uses the OpenAI API to process user queries. When you enter a query, it is sent to OpenAI's servers where it is processed to generate a response. This data is used solely for the purpose of responding to your query and is not used for marketing or advertising purposes.
 
 ## Sharing Your Personal Information
 
 We do not share your personal information with third parties without your consent except where required by law or as necessary to provide the Extension's services.
 
-The Extension uses the OpenAI GPT-3 API to provide chat services. When you use the chat feature, your queries are sent to OpenAI's servers for processing. OpenAI's use of your data is governed by their privacy policy, which you can read [here](https://openai.com/policies/privacy-policy).
+The Extension uses the OpenAI API to provide chat services. When you use the chat feature, your queries are sent to OpenAI's servers for processing. OpenAI's use of your data is governed by their privacy policy, which you can read [here](https://openai.com/policies/privacy-policy).
 
 ## Your Rights
 
