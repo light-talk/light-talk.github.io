@@ -31,4 +31,4 @@ Depending on your location, you may have certain rights regarding your personal 
 
 ## Contact Us
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at lighttalk.extension@gmail.com.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [lighttalk.extension@gmail.com](<mailto:lighttalk.extension@gmail.com>).
